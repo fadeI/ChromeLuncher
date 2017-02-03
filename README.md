@@ -1,3 +1,3 @@
 # ChromeLuncher
 
-enable to run new projects from desktop 
+enabble to run your favor projects as daily
